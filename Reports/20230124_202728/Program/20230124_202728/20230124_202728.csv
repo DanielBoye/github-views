@@ -1,8 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-Program,Chrome 109.0.0.0,,,2023-01-24 20:27:30,2023-01-24 20:27:54,"23,328s",PASSED
-,,,,,,,
-Test Cases/Refresh,Chrome 109.0.0.0,,,2023-01-24 20:27:31,2023-01-24 20:27:54,"23,017s",PASSED
-"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-24 20:27:31,2023-01-24 20:27:33,"2,390s",PASSED
-"navigateToUrl(""http://github.com/DanielBoye"")",Chrome 109.0.0.0,Navigate to demo AUT site,,2023-01-24 20:27:33,2023-01-24 20:27:37,"3,169s",PASSED
-"for ([i = 1, i <= 20, (i++)])",Chrome 109.0.0.0,Refresh the current web page,,2023-01-24 20:27:37,2023-01-24 20:27:53,"16,427s",PASSED
-closeBrowser(),Chrome 109.0.0.0,Close browser,,2023-01-24 20:27:53,2023-01-24 20:27:54,"0,670s",PASSED
